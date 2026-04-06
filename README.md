@@ -10,3 +10,13 @@ Learn how to use Git stash to save uncommitted work temporarily.
 - Use `git stash` to save these changes.
 - Switch branches, perform some work, then return and reapply your stashed changes with `git stash pop`.
 - Optionally, demonstrate how to view and manage multiple stashes using `git stash list` and `git stash drop`.
+
+### screenshots
+
+![output](images/1.png)
+
+![output](images/2.png)
+
+![output](images/3.png)
+
+![output](images/4.png)
