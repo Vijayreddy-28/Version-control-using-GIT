@@ -10,3 +10,11 @@ Set up a Git hook to run scripts (like linters or tests) before commits are fina
 - Write a simple script (e.g., a shell script or Node script) that runs a linter or a unit test.
 - Ensure that if the tests or linting fail, the commit is aborted.
 - Document how Git hooks can improve code quality in collaborative projects.
+
+### Screenshots
+
+![output](images/1.png)
+
+![output](images/2.png)
+
+![output](images/3.png)
