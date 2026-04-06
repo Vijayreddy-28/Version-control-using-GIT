@@ -22,12 +22,18 @@
 - Attempted to merge branches using `git merge branch-name`
 - Observed merge conflict messages
 
+![output](images/1.png)
+
+![output](images/3.png)
+
 ### 4. Resolving Conflicts
 
 - Used `git status` to see conflicting files
 - Used `git diff` to review differences
 - Manually resolved conflicts in the files
 - Added resolved files with `git add` and committed the merge
+
+![output](images/2.png)
 
 ## Outcome
 
