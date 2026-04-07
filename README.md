@@ -34,6 +34,7 @@
 
 ![output](images/5.png)
 ![output](images/6.png)
+![output](images/7.png)
 
 ## Outcome
 
