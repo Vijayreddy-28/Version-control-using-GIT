@@ -5,6 +5,10 @@
 - Initialize a new Git repository
 - Create files and commit them
 - Create a new branch, make changes, and merge it back to the main branch
+## Requirements:
+- Use `git init`, `git add`, and `git commit` to start your repository.  
+- Create a branch using `git branch` or `git checkout -b` and switch between branches.  
+- Merge the branch back to the main branch and verify the commit history.  
 
 ## Tasks Performed
 
