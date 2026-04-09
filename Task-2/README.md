@@ -1,0 +1,20 @@
+# Using .gitignore and Tracking Files
+
+## Objective:
+
+Set up a `.gitignore` file to exclude certain files or directories.
+Verify that ignored files are not tracked by Git.
+
+## Requirements:
+
+- Create a `.gitignore` file with patterns (e.g., ignoring log files or temporary files).
+- Add files that match and do not match the ignore patterns.
+- Use `git status` to confirm which files are being tracked.
+
+## Screenshots
+
+![output](images/1.png)
+
+![output](images/2.png)
+
+![output](images/3.png)
