@@ -25,8 +25,6 @@
   - `git checkout -b <branch-name>`
 - Switched between branches
 
-![output](images/3.png)
-
 ### 3. Merging Changes
 
 - Merged the branch back into the main branch using `git merge`
