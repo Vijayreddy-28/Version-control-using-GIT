@@ -17,4 +17,6 @@ Verify that ignored files are not tracked by Git.
 
 ![output](images/2.png)
 
+![output](images/7.png)
+
 ![output](images/3.png)
